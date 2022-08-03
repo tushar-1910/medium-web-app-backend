@@ -1,5 +1,4 @@
 const express = require('express')
-const addressData = require('../database/address')
 const { postdata,allusers} = require('../handlers/address')
 
 
